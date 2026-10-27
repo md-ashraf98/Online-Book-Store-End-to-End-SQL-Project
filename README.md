@@ -1,6 +1,6 @@
 <div align="center">
 
-![SQL Project on Online Book Store](images/cover.png)
+![SQL Project on Online Book Store](Image1.png)
 
 # 📚 Online Book Store Analysis: End-to-End SQL Project
 
