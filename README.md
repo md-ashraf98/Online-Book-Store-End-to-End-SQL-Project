@@ -52,7 +52,7 @@ The analysis looks at inventory, customer demographics, sales performance and ge
 
 The dataset has **3 CSV files**, each with **500 rows**. The tables are linked through common columns that share the same name and data type.
 
-![3 CSV Files](images/csv_files.png)
+![3 CSV Files](Image2.png)
 
 ### 1. `Books.csv`
 
